@@ -1,0 +1,6 @@
+professor_id,curso_id,departamento_id,data_id,carga_horaria,outras_metricas
+1,1,1,1,40,boa avaliação
+2,2,2,2,30,média avaliação
+3,3,3,3,45,alta avaliação
+4,4,4,4,35,boa avaliação
+5,5,5,5,50,média avaliação
